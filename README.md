@@ -1,13 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Soojin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-- 👋 Hi, I’m @Lee-Soojin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👩🏻‍💻 안녕하세요! **프론트엔드 개발자** 이수진입니다. 
+저의 깃허브에 오신 것을 환영합니다!😉
 
-<!---
-Lee-Soojin/Lee-Soojin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 포토폴리오 사이트
+![포트폴리오 사이트](https://soojinlee.net/)
