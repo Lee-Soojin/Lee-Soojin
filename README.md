@@ -5,22 +5,27 @@
 저의 깃허브에 오신 것을 환영합니다 😉
 
 ### Work
-현재 Hifen에 재직 중입니다. 
-프론트엔드 개발 업무 전체를 담당하고 있습니다. 
-
-<https://www.hifen.io>
-
-<https://www.crooki.co/>
+현재 Hifen에 재직 중입니다.
+프론트엔드 개발 업무 전체를 담당하고 있습니다.
 
 <https://www.ugwanggi.com/>
+활발하게 사이트 운영 중 ✨
+
+<https://www.hifen.io>
+서비스 종료
+
+<https://www.crooki.co/>
+서비스 종료
 
 
 ### Blog
 프론트엔드 개발 관련 기록이 담긴 블로그 입니다.
-자주는 아니지만 기록하고 싶은 개발지식을 작성하는 공간입니다 🏡
+기록하고 나누고 싶은 개발 관련 글들을 작성하는 공간입니다 🏡
 
 <https://fe-paradise.tistory.com/>
 
+### ☕️ 근황
+Node.js 공부 중 💻
 
 ### 🌠 SKILLS
 
