@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Soojin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 👩🏻‍💻 안녕하세요! **프론트엔드 개발자** 이수진입니다. 
 
 ### Work
@@ -8,8 +5,10 @@
 프론트엔드 개발 업무 전체를 담당하고 있습니다.
 
 <https://www.ugwanggi.com/>
+활발한 서비스 운영 중 ✨
+
 <https://gonggu.zip/home/>
-활발하게 사이트 운영 중 ✨
+활발한 서비스 운영 중 ✨
 
 <https://www.hifen.io>
 서비스 종료
