@@ -8,6 +8,7 @@
 프론트엔드 개발 업무 전체를 담당하고 있습니다.
 
 <https://www.ugwanggi.com/>
+<https://gonggu.zip/home/>
 활발하게 사이트 운영 중 ✨
 
 <https://www.hifen.io>
@@ -15,6 +16,7 @@
 
 <https://www.crooki.co/>
 서비스 종료
+
 
 
 ### Blog
